@@ -2,6 +2,6 @@
 package modelo.persistencia;
 
 
-public interface DAO<T> {
+public interface DAO<T>  {
 
 }
